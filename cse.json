@@ -1,0 +1,254 @@
+[
+ {
+  title: 'Higher enginnering mathematics',
+  author: 'B S Grewal',
+  year: 2000,
+  quantity: 46,
+  imageURL: './img/1.jpg'
+ },
+ {
+  title: 'Advanced engineering mathematics ',
+  author: 'Erwin Kreyszig',
+  year: 1999,
+  quantity: 10,
+  imageURL: './img/2.jpg'
+ },
+ {
+  title: 'Engneering mathematics',
+  author: 'N.P.Bali',
+  year: 2007,
+  quantity: 4,
+  imageURL: './img/3.jpg'
+ },
+ {
+  title: 'Engneering physics',
+  author: 'R.K.Gaur',
+  year: 2001,
+  quantity: 9,
+  imageURL: './img/4.jpg'
+ },
+ {
+  title: 'Engineering Drawing',
+  author: 'ND Bhatt',
+  year: 2000,
+  quantity: 21,
+  imageURL: './img/5.jpg'
+ },
+ {
+  title: 'Text book for engineering drawing',
+  author: 'K.L.Narayana',
+  year: 1999,
+  quantity: 3,
+  imageURL: './img/6.jpg'
+ },
+ {
+  title: 'Elements of Workshop Technology',
+  author: 'S.K.Hajra',
+  year: 1997,
+  quantity: 5,
+  imageURL: './img/7.jpg'
+ },
+ {
+  title: 'Millaman's Integrated Electonics',
+  author: 'Jacob millman',
+  year: 2000,
+  quantity: 6,
+  imageURL: './img/8.jpg'
+ },
+ {
+  title: 'Micro Electronics',
+  author: 'Jacob Millman',
+  year: 1987,
+  quantity: 8,
+  imageURL: './img/9.jpg'
+ },
+ {
+  title: 'Dgital Logic and computer Design',
+  author: 'M.Morris Mano',
+  year: 2001,
+  quantity: 10,
+  imageURL: './img/10.jpg'
+ },
+ {
+  title: 'Switching and Finite Automata Theory',
+  author: 'Z Kohavi',
+  year: 1978,
+  quantity: 9,
+  imageURL: './img/11.jpg'
+ },
+ {
+  title: 'Data Communination and Networking ',
+  author: 'Behrouz A Forouzan',
+  year: 2000,
+  quantity: 5,
+  imageURL: './img/12.jpg'
+ },
+ {
+  title: 'Let us c',
+  author: 'Yshavant Kanetkar',
+  year: 1995,
+  quantity: 10,
+  imageURL: './img/13.jpg'
+ },
+ {
+  title: 'Discrete Mathematics',
+  author: 'Joe L. Mott',
+  year: 2015,
+  quantity: 10,
+  imageURL: './img/14.jpg'
+ },
+ {
+  title: 'DMS with applications',
+  author: 'J P Tremblay',
+  year: 1997,
+  quantity: 14,
+  imageURL: './img/15.jpg'
+ },
+ {
+  title: 'Data and Computer Communication ',
+  author: 'William Stallings',
+  year: 2001,
+  quantity: 14,
+  imageURL: './img/16.jpg'
+ },
+ {
+  title: 'Java',
+  author: 'Herbert Schidlt',
+  year: 2001,
+  quantity: 10,
+  imageURL: './img/17.jpg'
+ },
+ {
+  title: 'Programming with java',
+  author: 'E Balaguruswamy',
+  year: 1998,
+  quantity: 22,
+  imageURL: './img/18.jpg'
+ },
+ {
+  title: 'Computer System And organisation ',
+  author: 'Morris Mano',
+  year: 2001,
+  quantity: 8,
+  imageURL: './img/19.jpg'
+ },
+ {
+  title: 'Modern Operating Systems',
+  author: 'Andrew S Tanenbaum',
+  year: 2001,
+  quantity: 6,
+  imageURL: './img/20.jpg'
+ },
+ {
+  title: 'Operating System',
+  author: 'William Stallings',
+  year: 2001,
+  quantity: 10,
+  imageURL: './img/21.jpg'
+ },
+ {
+  title: 'Fundamentals of math Statistics',
+  author: 'S C gupta and VK Kapoor',
+  year: 2000,
+  quantity: 6,
+  imageURL: './img/22.jpg'
+ },
+ {
+  title: 'Microprocessor and Interfacing',
+  author: 'Douglass V Hall',
+  year: 1999,
+  quantity: 20,
+  imageURL: './img/23.jpg'
+ },
+ {
+  title: 'Introduction to Microprocessor',
+  author: 'A.P.Mathur',
+  year: 1989,
+  quantity: 14,
+  imageURL: './img/24.jpg'
+ },
+ {
+  title: 'Computer Networks',
+  author: 'Andrew S Tanenbaum',
+  year: 2000,
+  quantity: 11,
+  imageURL: './img/25.jpg'
+ },
+ {
+  title: 'Computer Graphics',
+  author: 'Donald Hearn',
+  year: 2000,
+  quantity: 6,
+  imageURL: './img/26.jpg'
+ },
+ {
+  title: 'Computer Graphics',
+  author: 'J D Foley',
+  year: 1999,
+  quantity: 14,
+  imageURL: './img/27.jpg'
+ },
+ {
+  title: 'Artifical Intilligence',
+  author: 'Elaine Rich',
+  year: 1991,
+  quantity: 20,
+  imageURL: './img/28.jpg'
+ },
+ {
+  title: 'Compilers',
+  author: 'Alfred V aho',
+  year: 1999,
+  quantity: 16,
+  imageURL: './img/29.jpg'
+ },
+ {
+  title: 'Database System Concepts',
+  author: 'A.Silberschatz',
+  year: 1997,
+  quantity: 9,
+  imageURL: './img/30.jpg'
+ },
+ {
+  title: 'Database  Management System ',
+  author: 'Raghu Ramakrisnan',
+  year: 2000,
+  quantity: 6,
+  imageURL: './img/31.jpg'
+ },
+ {
+  title: 'Fundamentals Of Computer Algorithms',
+  author: 'Ellis Horowitz',
+  year: 2000,
+  quantity: 14,
+  imageURL: './img/32.jpg'
+ },
+ {
+  title: 'The Design and Analysis of comp algorithm',
+  author: 'Alfred V aho',
+  year: 1998,
+  quantity: 14,
+  imageURL: './img/33.jpg'
+ },
+ {
+  title: 'Digital image Processing',
+  author: 'Gonzalez Rafael C ',
+  year: 2000,
+  quantity: 9,
+  imageURL: './img/34.jpg'
+ },
+ {
+  title: 'Neural networks',
+  author: 'Simon Hyakin',
+  year: 1999,
+  quantity: 4,
+  imageURL: './img/35.jpg'
+ },
+ {
+  title: 'Software Engneering',
+  author: 'Roger S Pressman',
+  year: 2001,
+  quantity: 18,
+  imageURL: './img/36.jpg'
+ }
+]
